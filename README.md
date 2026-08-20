@@ -32,7 +32,7 @@ Abra o terminal na pasta do projeto e siga os passos abaixo:
 ### 1. Ordenar as Transações Brutas
 Para processar e ordenar a base de movimentações de entrada (`transacoes_completas.csv`):
 ```bash
-python 02_ordenador.pyEste projeto foi desenvolvido em Python para automatizar o processamento, tratamento e apuração de saldos diários a partir de registros de transações bancárias.
+python 02_ordenador.py Este projeto foi desenvolvido em Python para automatizar o processamento, tratamento e apuração de saldos diários a partir de registros de transações bancárias.
 
 ---
 1. Ordenar as Transações Brutas
