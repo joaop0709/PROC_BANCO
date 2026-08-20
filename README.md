@@ -34,6 +34,7 @@ Para processar e ordenar a base de movimentações de entrada (`transacoes_compl
 ```bash
 python 02_ordenador.pyEste projeto foi desenvolvido em Python para automatizar o processamento, tratamento e apuração de saldos diários a partir de registros de transações bancárias.
 
+---
 ## 🚀 Funcionalidades
 
 - **Ordenação de Transações:** Organização dos registros por data/hora e classificação do tipo de transação (Crédito/Débito).
